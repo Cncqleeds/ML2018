@@ -1,0 +1,2 @@
+model_checkpoint_path: "H:\\CnCqLeeds\\code\\\350\207\264\346\225\254 AlphaGo Zero\\Model_save\\model_net_demo.ckpt"
+all_model_checkpoint_paths: "H:\\CnCqLeeds\\code\\\350\207\264\346\225\254 AlphaGo Zero\\Model_save\\model_net_demo.ckpt"
